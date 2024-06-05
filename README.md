@@ -1,1 +1,3 @@
 # TelcoCustomerChurn
+
+This repository contains a comprehensive analysis and predictive modeling project focused on customer churn in the telecommunications industry. The primary goal is to identify key factors that contribute to customer churn and develop robust machine learning models to predict which customers are at risk of leaving. The project includes data cleaning, exploratory data analysis, feature engineering, model building, and evaluation, along with visualizations and insights derived from the data. This repository is intended for data scientists, analysts, and anyone interested in understanding and mitigating customer churn in the telecom sector.
